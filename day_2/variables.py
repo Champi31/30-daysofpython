@@ -40,6 +40,7 @@ floor_division=(num_one//num_two)
 
 square_of_radius = (30*30)
 area_of_circle = (3.1416 * square_of_radius)
+radius = int(input('give me the radius of a circle'))
 print(area_of_circle)
 
 fname = input("what is your first name? ")
